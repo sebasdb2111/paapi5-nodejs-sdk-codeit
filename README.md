@@ -13,7 +13,7 @@ This repository contains the official Product Advertising API 5.0 NodeJS SDK cal
 The Product Advertising API NodeJS SDK can be installed via [npm](https://www.npmjs.com/package/paapi5-nodejs-sdk):
 
 ```shell
-npm install paapi5-nodejs-sdk --save
+npm install paapi5-nodejs-sdk-codeit --save
 ```
 
 You should now be able to `require('paapi5-nodejs-sdk')` in javascript files.
